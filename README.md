@@ -1,2 +1,4 @@
-# Final-Project
- 
+# THorningFinal
+So this project went off the rails for me. After losing the group due to not being able to get important training data we needed. I went down the route of trying to teach a nueral net a game. I figured this was simple enough, unfortunately with the game I picked (snake) the computing time was going to take too long. I decided to try to implement a Neural Net in order to solve a complex equation used in my previous field of research. This grew in complexity and I simply ran out of time. I tried descoping to just comparing the timing between Runga Kutte and Neural NEt solutions, but I ran into a lot of trouble with implementation. I did not successfully run the Neural Net code. 
+
+The notebook reads like a lab notebook rather than a report as it is just me continously scrambling. Either way, enjoy. Be careful with the dependecies. I had to manually install the Julia packages
